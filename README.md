@@ -9,8 +9,16 @@ Distance Polatisation Histogram. Here it was applied to STED data, from which cl
 
 Test Data ('sample' in the histogram) ... are red & green associated with each other?
 
-![Unknown data](Sample%20-%20Composite.png?raw=true "Sample Data - Overlay")
+![Test data](Sample%20-%20Composite.png?raw=true "Sample Data - Overlay")
+
+Test Data - cluster centroids:
+
+![Test data - centroids](sample_data.png?raw=true "Sample Data - Cluster centroids")
 
 Positive Control Data ('control' in the histogram) ... the same protein stained with two different reporters, i.e. a well juxtaposed channels
 
 ![Highly juxtaposed data](Positive%20Control%20-%20Composite.png?raw=true "Positive Control (dual labelled) - Overlay")
+
+Positive Control Data - cluster centroids:
+
+![Positive Control data - centroids](ctrl_data.png?raw=true "Positive Control Data - Cluster centroids")
